@@ -1,2 +1,2 @@
-infiniflow/ragflow_deps:latest
+rustfs/rustfs:latest
 
