@@ -1,2 +1,3 @@
 rustfs/rustfs:latest
+--platform=linux/arm64
 
