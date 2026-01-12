@@ -1,2 +1,2 @@
---platform=linux/arm64 opensearchproject/opensearch:3.4.0
+--platform=linux/arm64 opensearchproject/opensearch-dashboards:3.4.0
 
