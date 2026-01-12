@@ -1,3 +1,2 @@
-rustfs/rustfs:latest
---platform=linux/arm64 rustfs/rustfs:latest
+--platform=linux/arm64 opensearchproject/opensearch:3.4.0
 
