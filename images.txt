@@ -1,1 +1,1 @@
---platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.18.0rc1
+--platform=linux/amd64 vllm/vllm-openai:latest
